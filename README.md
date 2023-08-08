@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java , AICG , Distributed
+- 🌱 I’m currently learning Java , AICG , Distributed.
 - 🎢 Language proficiency rankings : C++>C>Java>Python>Rust>JS.
-- 📫 WeChat public account : 阿新的杂记
-- ⚡ Fun fact : Photography , Popping , Guitar
-- 💬 Ask me about anything about CS
+- 📫 WeChat public account : 阿新的杂记.
+- ⚡ Fun fact : Photography , Popping , Guitar.
+- 💬 Ask me about anything about CS.
 - ❤️ Love anything that's high-performance and easy to use.
