@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🥳 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io/en/introduction/)
 - 🌱 I’m currently learning Java , AICG , Distributed.
 - 🎢 Language proficiency rankings : C++>C>Java>Python>Rust>JS.
 - 📫 WeChat public account : 阿新的杂记.
