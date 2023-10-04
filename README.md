@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🥳 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io/en/introduction/)
-- 🌱 I’m currently learning [this](https://www.yuque.com/yuqueyonghub77ozu/zebpal?# 《阿新的学习空间》).
+- 🌱 I’m currently learning [this](https://www.yuque.com/yuqueyonghub77ozu/zebpal?#).
 - 🎢 Language proficiency rankings : C++>C>Java>Python>Rust>JS.
 - 📫 WeChat public account : 阿新的杂记.
 - ⚡ Fun fact : Photography , Popping , Guitar.
