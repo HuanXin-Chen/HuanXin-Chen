@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 - ❤️ Love anything that's high-performance and easy to use.
 
 Good luck and never give up ! ! ! 🔥 <br/>  <br/> 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a> 
