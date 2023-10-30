@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🥳 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io/en/introduction/)
 - 🌱 I’m currently learning [this](https://www.yuque.com/chx3/zebpal?#).
-- 🎢 Language proficiency rankings : C++>C>Java>Python>Rust>JS.
+- 🎢 Language proficiency rankings : C++>C>Java>Go>Python>Rust>JS.
 - 📫 WeChat public account : 阿新的杂记.
 - ⚡ Fun fact : Photography , Popping , Guitar.
 - 💬 Ask me about anything about CS.
