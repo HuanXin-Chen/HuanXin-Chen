@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🥳 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io/en/introduction/)
-- 🌱 I’m currently learning System-Design,Distributed-Systems.
-- 🎢 Language proficiency rankings : Java>C>Go>C++>Python>Rust>JS.
+- 🌱 I’m currently learning System-Design.
 - 📫 WeChat public account : 阿新的杂记.
 - ⚡ Fun fact : Photography , Popping , Guitar.
 - 💬 Ask me about anything about CS.
