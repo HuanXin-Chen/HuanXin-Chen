@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything about CS.
 - ❤️ Love anything that's high-performance and easy to use.
 
-Good luck and never give up ! ! ! 🔥 <br/>  <br/> 
-<img src="https://cdn.nlark.com/yuque/0/2023/jpeg/29466846/1700285635123-2430064f-03a6-4b8d-b6f2-9953961aa3bc.jpeg#averageHue=%23504d5b&clientId=u91e49330-70a0-4&from=paste&height=2848&id=u98e8e313&originHeight=2848&originWidth=4288&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1096947&status=done&style=none&taskId=ud7e34476-3376-46e6-b517-db0612d8df2&title=&width=4288" alt="Image" style="max-width: 500px;">
-<br/>  
-
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a> 
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a> 
