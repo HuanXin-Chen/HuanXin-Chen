@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🥳 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io/en/introduction/)
+- 🥳 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io)
 - 🌱 I’m currently learning System-Design.
 - 📫 WeChat public account : 阿新的杂记.
 - ⚡ Fun fact : Photography , Popping , Guitar.
