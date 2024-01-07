@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🥳 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io)
-- 🌱 I’m currently learning System-Design.
-- 📫 WeChat public account : 阿新的杂记.
-- ⚡ Fun fact : Photography , Popping , Guitar.
-- 💬 Ask me about anything about CS.
-- ❤️ Love anything that's high-performance and easy to use.
-
+- 🔭 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io)
+- 🌱 My Interests : Backend Development.
+- ❤️ Fun fact : I Love Nikon！
