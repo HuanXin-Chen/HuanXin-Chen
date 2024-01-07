@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io)
-- 🌱 My Interests : Backend Development.
+- 🌱 My Interests : Backend.
 - ❤️ Fun fact : I Love Nikon！
