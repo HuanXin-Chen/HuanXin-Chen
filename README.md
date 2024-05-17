@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 My Blog : [HuanXin-Chen](https://huanxin-chen.github.io)
 - 🌱 My Interests : Backend.
-- ❤️ Fun fact : I Love Nikon！
+- ⚡ Focus On ：API Gateway 
