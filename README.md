@@ -22,7 +22,7 @@ Here are some ideas to get you started:
             <li>🔭 My Blog : <a href="https://huanxin-chen.github.io">HuanXin-Chen</a></li>
 	    <li>🌱 I am a graduate student in Cyberspace Security of <a href="https://wyy.gzhu.edu.cn/">GZHU</a></li>
             <li>⚡ My recent interests focus on API Gateway & Microservices </li>
-	    <li>📫 Contact Me: V2VDaGF077yaTjM1MDAyMCAmJiBRUe+8mjEwNTYyMTYyMDg= </li>
+	    <li>📫 Contact Me : V2VDaGF077yaTjM1MDAyMCAmJiBRUe+8mjEwNTYyMTYyMDg= </li>
         </ul>
     </div>
 </div>
