@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="width:100%; height:450px;">
-    <img align="right" src="me.jpg" style="height:180px; margin-left: 0px;" />
+    <img align="right" src="me.jpg" style="height:220px; margin-left: 0px;" />
     <h3> About Me 💬 : </h3>
     <div id="introduction" style="margin-right: 0px;">
         <ul>
