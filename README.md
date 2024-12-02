@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="width:100%; height:450px;">
-    <img align="right" src="me.jpg" style="height:210px; margin-left: 10px;" />
-    <div id="introduction" style="margin-right: 0px">
-	<br/>
-        <p>
-            - 🔭 My Blog : <a href="https://huanxin-chen.github.io">HuanXin-Chen's Home</a> <br/><br/>
-	    - 🌱 I am a graduate student in Cyberspace Security of <a href="https://wyy.gzhu.edu.cn/">GZHU</a>. <br/><br/>
-            - ⚡ My recent interests focus on Cloud & API Gateway & Microservices. <br/>
-        </p>
+    <img align="right" src="me.jpg" style="height:180px; margin-left: 0px;" />
+    <h3> About Me 💬 : </h3>
+    <div id="introduction" style="margin-right: 0px;">
+        <ul>
+            <li>🔭 My Blog : <a href="https://huanxin-chen.github.io">HuanXin-Chen</a></li>
+	    <li>🌱 I am a graduate student in Cyberspace Security of <a href="https://wyy.gzhu.edu.cn/">GZHU</a></li>
+            <li>⚡ My recent interests focus on API Gateway & Microservices </li>
+	    <li>📫 Contact Me: V2VDaGF077yaTjM1MDAyMCAmJiBRUe+8mjEwNTYyMTYyMDg= </li>
+        </ul>
     </div>
 </div>
-
-
-
