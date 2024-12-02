@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - ⚡ Focus On ：API Gateway and Microservices.
 
-<img src="me.jpg"  alt="Me"/>
+<img src="me.jpg" style="height:300px;" alt="Me"/>
 
 
 
